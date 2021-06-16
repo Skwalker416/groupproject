@@ -1,10 +1,9 @@
 # groupproject
 
-A new Flutter project.
+READ ME MR KABILA
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+While we were pushing our code to github most of it was deleted we have tried to recover mmost of it but our AndroidManifestXml file is corrupted we will update the file sorry for the timedelay dear kabila
 
 A few resources to get you started if this is your first Flutter project:
 
